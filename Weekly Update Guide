@@ -1,0 +1,51 @@
+# [Name of DAO] Weekly Update
+
+## Weekly Forum Summary
+
+Weekly forum summaries are where Scribes give members of their DAO a rundown of what's happened in their governance forums each week and provide links to join the discussion. They are split into three sections: the TLDR, new discussions, and ongoing discussions.
+
+To start this section, copy and paste the above section title and give a short TLDR summary of what's important to know. 
+
+### New Discussions
+
+New discussions are threads that have started the week of the update. 
+
+Use the above sub-section title and format the links as seen below (copy and paste from the Template doc in this folder).
+
+| Name          | Category      | Link   |
+| ------------- |:-------------:| :-----:|
+| Name of Post | Category | [Discuss](Link to Forum post)
+
+These are the categories to choose from:
+
+- Treasury: posts about using a DAO's treasury, e.g. a proposal to spend funds or how to manage the treasury
+- Development: posts about development-related topics, e.g. proposed changes to parameters of a DeFi protocol
+- Meta: posts about the governance of the DAO
+- Meta-Governance (if applicable): posts about participating in the governance of another DAO
+- Operations: posts about staffing, organizational workstreams, etc. 
+- Marketing: posts about marketing for the DAO
+- Strategy: posts about overall strategy of the DAO
+- Product: posts about the product of the DAO
+- Other: everything else
+
+Note: sometimes forum posts are best described with two categories, e.g. Product/Development or Marketing/Strategy
+
+After you fill in the table, add a short (100 words max) description under the table.
+
+### Ongoing Discussions
+
+Ongoing discussions are threads that started before the week of the update but were substantively added to during the week of the update. 
+
+These are organized the same way as New Discussions. 
+
+## Other Updates
+
+This section of the Weekly Update is for adding anything else members of a DAO need to know. Scribes can format these however they like, but below are some suggestions on the type of things to include:
+
+- Topics discussed in the Discord, with links. 
+- Twitter threads about the DAO worth highlighting.
+- News mentions of the DAO
+- Etc. 
+
+For markdown formatting tips, [see here] (https://www.markdownguide.org/cheat-sheet/) 
+
